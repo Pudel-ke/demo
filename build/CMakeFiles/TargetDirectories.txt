@@ -1,0 +1,3 @@
+/home/ke/projects/demo/build/CMakeFiles/gemm.dir
+/home/ke/projects/demo/build/CMakeFiles/edit_cache.dir
+/home/ke/projects/demo/build/CMakeFiles/rebuild_cache.dir
